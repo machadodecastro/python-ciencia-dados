@@ -1,4 +1,4 @@
-# python-ciencia-dados
+# Python para Ciência de Dados
 
 Livro voltado para estudantes de Ciência de Dados, Engenharia de Software ou até mesmo profissionais de outras áreas que queiram compreender a linguagem de programação Python e todo seu ecossistema (PyData Stack) voltado para análise de dados, com o objetivo de solucionar problemas do mundo real.
 
