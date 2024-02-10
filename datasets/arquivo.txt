@@ -1,0 +1,3 @@
+Esse capítulo é sobre tratamento de arquivos em Python.
+Para abrir um arquivo, você utiliza a função open().
+O modo de abertura pode ser "r" para leitura, "w" para escrita, "a" para acrescentar, "r+" para leitura e escrita.
